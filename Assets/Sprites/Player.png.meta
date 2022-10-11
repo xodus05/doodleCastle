@@ -116,7 +116,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: New Piskel (1)_0
+      name: Player_0
       rect:
         serializedVersion: 2
         x: 0
@@ -130,14 +130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 033e941975e249147b8dd252a0578e6a
-      internalID: -1717882282
+      spriteID: a8b12d7a001d80c4fafd359bd189bd7c
+      internalID: 1231083692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_1
+      name: Player_1
       rect:
         serializedVersion: 2
         x: 240
@@ -151,14 +151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71be4b71a2453184d975a3327f6c6656
-      internalID: -926012761
+      spriteID: bbae94d2b26611e4a97a17ef055cd7cf
+      internalID: 792216214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_2
+      name: Player_2
       rect:
         serializedVersion: 2
         x: 480
@@ -172,14 +172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bf5959958bd3a340a06530f8f9c5216
-      internalID: -261077121
+      spriteID: 4f863e878dad8d2448c56bdde34c18b8
+      internalID: 500835158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_3
+      name: Player_3
       rect:
         serializedVersion: 2
         x: 0
@@ -193,14 +193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55fd093f5a3a45a4faf035c4bd48d2ec
-      internalID: 455813012
+      spriteID: 8f8c1c327775ab04b8f2aeffb2b169d2
+      internalID: -920151261
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_4
+      name: Player_4
       rect:
         serializedVersion: 2
         x: 240
@@ -214,14 +214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3fbbb53050a73c948bc2292b3d1a65b1
-      internalID: 1677775929
+      spriteID: 68f6e142d59b8584e93de07dd5de4d2a
+      internalID: -2026478968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_5
+      name: Player_5
       rect:
         serializedVersion: 2
         x: 480
@@ -235,14 +235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f633c68c629cb504c882aa36cafaf044
-      internalID: -1914401851
+      spriteID: 36b6f8b3f80bf594285dd781fe3a200f
+      internalID: 320914445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_6
+      name: Player_6
       rect:
         serializedVersion: 2
         x: 0
@@ -256,14 +256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c781848de9e33b04e939561c18a6b048
-      internalID: -157910491
+      spriteID: e81e00b6d160edc48baf5a726d3c96d4
+      internalID: 2138609021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_7
+      name: Player_7
       rect:
         serializedVersion: 2
         x: 240
@@ -277,14 +277,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc35a1901ecca5b4d9ffe3575037dd80
-      internalID: -1940966223
+      spriteID: 5c3484b523350474bbe586d743bb59c7
+      internalID: 538545416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_8
+      name: Player_8
       rect:
         serializedVersion: 2
         x: 480
@@ -298,14 +298,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 250d8a35eac4f5d45b245781095c5f62
-      internalID: 1179613981
+      spriteID: 041ccda9bec2348459a11a68c32c7538
+      internalID: -1375141554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_9
+      name: Player_9
       rect:
         serializedVersion: 2
         x: 0
@@ -319,14 +319,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdcec0252a11fcd459fb7142a7f3ce1b
-      internalID: 421613286
+      spriteID: 3fcc26e66d23bc940b79906d63f4fc5a
+      internalID: -1653376593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_10
+      name: Player_10
       rect:
         serializedVersion: 2
         x: 240
@@ -340,14 +340,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6097242ee641fb4a9bfbf7ac6f05773
-      internalID: -1277628938
+      spriteID: 14bb145f6dadc8146b18de10b807e72e
+      internalID: 189994334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_11
+      name: Player_11
       rect:
         serializedVersion: 2
         x: 480
@@ -361,8 +361,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 599bcbd1e0768614c8911881dc8854ba
-      internalID: 1986989150
+      spriteID: 62330289319f51640aade4238c8f284d
+      internalID: 456801517
       vertices: []
       indices: 
       edges: []
@@ -378,18 +378,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      New Piskel (1)_8: 1179613981
-      New Piskel (1)_9: 421613286
-      New Piskel (1)_10: -1277628938
-      New Piskel (1)_1: -926012761
-      New Piskel (1)_11: 1986989150
-      New Piskel (1)_4: 1677775929
-      New Piskel (1)_2: -261077121
-      New Piskel (1)_0: -1717882282
-      New Piskel (1)_3: 455813012
-      New Piskel (1)_6: -157910491
-      New Piskel (1)_7: -1940966223
-      New Piskel (1)_5: -1914401851
+      Player_11: 456801517
+      Player_2: 500835158
+      Player_4: -2026478968
+      Player_6: 2138609021
+      Player_1: 792216214
+      Player_9: -1653376593
+      Player_0: 1231083692
+      Player_7: 538545416
+      Player_3: -920151261
+      Player_8: -1375141554
+      Player_10: 189994334
+      Player_5: 320914445
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
