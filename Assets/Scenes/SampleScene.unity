@@ -154,8 +154,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5007593259a2f040980f8b9f014e231, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
-  runSpeed: 2
+  speed: 2.4
+  runSpeed: 2.4
+  walkCount: 20
 --- !u!95 &187257745
 Animator:
   serializedVersion: 4
@@ -164,9 +165,9 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 187257743}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 0529b24c53c884a4b88385f86ce4e88d, type: 2}
+  m_Controller: {fileID: 9100000, guid: 58f6c70b1b8e6da47950a2e676807b73, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -217,12 +218,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1717882282, guid: 3c4137673bec47645b946bac674b7afd, type: 3}
+  m_Sprite: {fileID: 1231083692, guid: 3c4137673bec47645b946bac674b7afd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.4, y: 2.4}
+  m_Size: {x: 0.6041667, y: 0.9375}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
