@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 85dbe0710fc603c4bb9c775c80863593
+guid: 5c30d375a8612884a842a34089e87161
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -5519,10 +5519,9 @@ TextureImporter:
       wooden_floor_212: 503823287
       wooden_floor_194: 777889719
       wooden_floor_47: -1802844743
-      wooden_floor_70: 266565787
       wooden_floor_14: 351760285
       wooden_floor_43: -966892409
-      wooden_floor_210: -167448340
+      wooden_floor_70: 266565787
       wooden_floor_244: 462209552
       wooden_floor_216: -1813422377
       wooden_floor_49: -319759327
@@ -5531,10 +5530,11 @@ TextureImporter:
       wooden_floor_162: -1548214017
       wooden_floor_186: 652678173
       wooden_floor_48: 1428611256
-      wooden_floor_255: 1420206211
       wooden_floor_69: 2063951532
-      wooden_floor_117: -1393286779
+      wooden_floor_255: 1420206211
       wooden_floor_88: 1022919563
+      wooden_floor_210: -167448340
+      wooden_floor_117: -1393286779
       wooden_floor_76: -854350983
       wooden_floor_173: 374595530
       wooden_floor_170: -1324783189
@@ -5546,11 +5546,11 @@ TextureImporter:
       wooden_floor_128: -423773958
       wooden_floor_115: 12377775
       wooden_floor_97: 1052085806
-      wooden_floor_177: 1616899763
       wooden_floor_62: -569162055
-      wooden_floor_99: -1325567810
-      wooden_floor_185: 1350857758
       wooden_floor_153: 1695250317
+      wooden_floor_99: -1325567810
+      wooden_floor_177: 1616899763
+      wooden_floor_185: 1350857758
       wooden_floor_175: 1674037995
       wooden_floor_209: 1115726916
       wooden_floor_10: 397440994
@@ -5638,19 +5638,19 @@ TextureImporter:
       wooden_floor_11: -1599376877
       wooden_floor_4: -171934035
       wooden_floor_146: -856417440
-      wooden_floor_195: -1548677258
+      wooden_floor_91: -1754149443
       wooden_floor_64: 1053572986
+      wooden_floor_195: -1548677258
       wooden_floor_141: -757839017
       wooden_floor_181: -1622646437
       wooden_floor_207: 1355360947
       wooden_floor_134: 971447871
       wooden_floor_249: 335071837
-      wooden_floor_91: -1754149443
       wooden_floor_7: -1358580210
-      wooden_floor_188: 1948716529
-      wooden_floor_197: 394692896
-      wooden_floor_252: 1332642825
       wooden_floor_74: -99996481
+      wooden_floor_197: 394692896
+      wooden_floor_188: 1948716529
+      wooden_floor_252: 1332642825
       wooden_floor_137: 1472225479
       wooden_floor_102: 331254985
       wooden_floor_243: 2116806712
