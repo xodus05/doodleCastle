@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: furniture_11
+  m_Name: rpg_maker_vx___bird_s_eye_view_by_ayene_chan_d69ltpa_52
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 838677510, guid: ef7db6f5c93b94c40868c55b92b84f4b, type: 3}
+  m_Sprite: {fileID: 1646837223, guid: edb79909fcf7b6b4e820289b33182bbb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
