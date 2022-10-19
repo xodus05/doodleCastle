@@ -5,6 +5,9 @@ using UnityEngine;
 public class PlayerMove : MonoBehaviour
 {
 
+    private BoxCollider2D boxCollider;
+    public LayerMask layerMask;
+
     public float speed;
 
     private Vector3 vector;
@@ -23,6 +26,7 @@ public class PlayerMove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        boxCollider = GetComponent<BoxCollider2D>();
         animator = GetComponent<Animator>();
     }
 
